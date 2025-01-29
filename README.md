@@ -4,6 +4,6 @@
 
 #### Email: jakelawler2005@gmail.com
 
-#### Image: <img src=image.jpg width=150>
+#### Image: ![https://github.com/Unexpected-Pencil/2143-OOP/blob/main/image.jpg?raw=true]
 
-#### Avatar: <img src=avatar.jpg width=150>
+#### Avatar: ![](https://github.com/Unexpected-Pencil/2143-OOP/blob/main/avatar.jpg?raw=true)
